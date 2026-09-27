@@ -72,6 +72,7 @@
     "site/objects/45f98ba78304226dce76d4f46e5489b5bc67fae9f052833ee0f7452a87349778.json",
     "site/objects/5916652e46a1cb84bf4004ab2c3cb2bab25149ba3b2d4067c0f8f0f189bef2ba.json",
     "site/objects/5e3921535b726a36b315c25d5d2fd880f756b9eeef735fb3b25f22ac2119f183.json",
+    "site/objects/e24ce330d95322cef23cfb9179b23c49991114ee70b3e6778d31b47b6710092a.json",
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json",
     "site/releases/120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f.json",
     "site/releases/19db4c5ffab35fc9323b2ebf8504f80fbcd1484df24a991bcf00aa2ae7960709.json",
@@ -84,6 +85,8 @@
     "site/releases/ababd1f9054c631ececa6977cd73300a20380c4a4a21af8c3d586412de05b54c.json",
     "site/releases/bd8693d245c439e4bc52d164e562f767abd167662155d4f404e04f430b6f39e7.json",
     "site/releases/d0d20c96aa6c66a8b5c7e87f9027fb8ef4a448dd635a544ca2d759c083557b80.json",
+    "site/releases/e89be19a88ba2209581b9895133719aecb02628a3a8040a6243c7ba2ffc00022.json",
+    "site/runtime/04d823fbf01cd706d93dc806ad4ec543b6228976bd9fcf43d190751f4b047c13/reader.js",
     "site/runtime/1969013df39236ae5167e7120957b351fc102b3f4d88a385eb67efc586721698/reader.js",
     "site/runtime/9fd88db8c98bf81a1e52b7104dba7f796715b783ec6f2e3311420d3ae9d0d7ad/reader.js",
     "site/runtime/a268387a03c52038a83ea3102ba51e54ecdd9cd69d0aeb28a971db418cfd5079/reader.js",
@@ -97,55 +100,55 @@
   "files": {
     "README.md": {
       "bytes": 542,
-      "sha256": "b87d5a05f342c4c9394c9bae50cb8b4fc92de566b4c06a834cec21fe6ca4910e"
+      "sha256": "85002b9c1b1e84fc9ca4616cfd90ca7476fd6ce6977cad41a970d280312fffeb"
     },
     "reference/index.md": {
       "bytes": 689,
-      "sha256": "a28639a79a638939ac034447b30e2d842a3adcb5a3d22558d2304af5f40088dd"
+      "sha256": "6bcf4df045748a47be320ab97c22b4b46872e4e7e9e3e503bd9fe847eb0ff2f5"
     },
     "reference/loot-source/0001.md": {
       "bytes": 42625,
-      "sha256": "ab675ddebd16ca8335ee9f5cae055244086bb5e06322386775351b3111887935"
+      "sha256": "56ca2ee5856db11a81b2a72ba787941f3b2b673f28b079b96affcee3ab03ccaa"
     },
     "reference/loot-source/0002.md": {
       "bytes": 42625,
-      "sha256": "98a2cb3627e3f00400364da262b9876ffdecd8cb61ae2673d7b9681d5c3fc3ba"
+      "sha256": "55414839dfcd0ec0452e253ae1f125ea67e57c919771b43a601734a2e72c0193"
     },
     "reference/loot-source/0003.md": {
       "bytes": 42625,
-      "sha256": "68950df682ac250c10b9e46fd9bbabecb607a5727b9f66bc218236467c5f547d"
+      "sha256": "eb81fb8d87254fc828f862414c62833f9ae58e2c4544134af9dcbe2aa23678ca"
     },
     "reference/loot-source/0004.md": {
       "bytes": 42625,
-      "sha256": "5ace6612c9f22fb0226a3b2d0fa6b2247c9fff3c02e6b4d461999e5bfbb296c3"
+      "sha256": "c3e0b3872bd57cbd9bd7d4ee0818a9bf5e166c8668cb47ab864938ac5724e57d"
     },
     "reference/loot-source/0005.md": {
       "bytes": 42625,
-      "sha256": "316fa8d5a8149b510d8f625f6743fb04871e8326af6f4ce338521488d51a44e3"
+      "sha256": "93d6f822ec0626ed2425d1d7ed71cc035b0dd63bc2f4c2b348aa5c76ab642703"
     },
     "reference/loot-source/0006.md": {
       "bytes": 42625,
-      "sha256": "f4d84093d2c3ffc4c4f3b42dae08b5ba2ab35f5ee89ad52c8d7507ad8de86087"
+      "sha256": "7df10b83d39d966a21374cb37e226e54fea085a55be6136f38d6ea23bfe35d27"
     },
     "reference/loot-source/0007.md": {
       "bytes": 42625,
-      "sha256": "8faa3a4aac605e8ca1f0929c357b6b0b0844f4a8d2e1f5c52d462709abd92c23"
+      "sha256": "b41653c7b5509c84554e4300cdb419bbb26384928b6d7e92010d66415169fc9b"
     },
     "reference/loot-source/0008.md": {
       "bytes": 42757,
-      "sha256": "9a3c750bd757e049a22106820bcbedae7bc19d83bb2332e1c97897b6a262387b"
+      "sha256": "3ed0efe10608c39756a983d4af4be9b89e6c9a5f5f04ef0b48f716abe974b12c"
     },
     "reference/loot-source/0009.md": {
       "bytes": 27157,
-      "sha256": "645e47b02401f4579e3c264890c25b23c3ec22927c163d8e221a960db1a97575"
+      "sha256": "f34f3a90adf023335ea8db5874ffbe7e796f3b755929174e0ad54381591092e8"
     },
     "reference/loot-table/0001.md": {
       "bytes": 15906,
-      "sha256": "e515e3ecdd04cf33563cba1573598df8fcd3a2464bc40150f9bf1cf8506d4f39"
+      "sha256": "e0a1e81f2c2ac64bf5ed23b4db26f58082d2e1c135b4c704b5640b6525d5923a"
     },
     "reference/loot-tag/0001.md": {
       "bytes": 10715,
-      "sha256": "55b5a9d1f12dafcbd052d3cd1e1f564f5dc48cf418eb2a15f4c8dffbf6bcd853"
+      "sha256": "64943cc44337e3845d6f0b84fa6dda527eb77543d070e316952f5a0e68403981"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -459,6 +462,10 @@
       "bytes": 11443,
       "sha256": "5e3921535b726a36b315c25d5d2fd880f756b9eeef735fb3b25f22ac2119f183"
     },
+    "site/objects/e24ce330d95322cef23cfb9179b23c49991114ee70b3e6778d31b47b6710092a.json": {
+      "bytes": 653,
+      "sha256": "e24ce330d95322cef23cfb9179b23c49991114ee70b3e6778d31b47b6710092a"
+    },
     "site/reader.css": {
       "bytes": 59,
       "sha256": "31b3df513e2f5dab1f6a5db5c18838345bc1e7fd666166dc98d48c996fba712f"
@@ -468,8 +475,8 @@
       "sha256": "257fa077be724f14eb91dbe74106853b1281b9809a8307aa0ade74d6ba98b43a"
     },
     "site/reader.json": {
-      "bytes": 6566,
-      "sha256": "48a1811cb0369fcaf37976d6ba0a6dc0d76756e12606ea38d99a54dbf1219e0f"
+      "bytes": 6788,
+      "sha256": "30e5497cfafab5fc94dea3a25af27dc077a7ff59c1cc90aefd4b84d60090a3cf"
     },
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json": {
       "bytes": 4993,
@@ -519,6 +526,14 @@
       "bytes": 4993,
       "sha256": "d10b7e4f03cd12023af404f35bd99a97b4f430bbf8396b70c6fde9845cfefd29"
     },
+    "site/releases/e89be19a88ba2209581b9895133719aecb02628a3a8040a6243c7ba2ffc00022.json": {
+      "bytes": 6788,
+      "sha256": "30e5497cfafab5fc94dea3a25af27dc077a7ff59c1cc90aefd4b84d60090a3cf"
+    },
+    "site/runtime/04d823fbf01cd706d93dc806ad4ec543b6228976bd9fcf43d190751f4b047c13/reader.js": {
+      "bytes": 26665,
+      "sha256": "04d823fbf01cd706d93dc806ad4ec543b6228976bd9fcf43d190751f4b047c13"
+    },
     "site/runtime/1969013df39236ae5167e7120957b351fc102b3f4d88a385eb67efc586721698/reader.js": {
       "bytes": 23601,
       "sha256": "1969013df39236ae5167e7120957b351fc102b3f4d88a385eb67efc586721698"
@@ -557,7 +572,7 @@
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "7a3c1abc5752db31b2560fac7258e4b4ce5c9581eb634473097f1940995c69b9",
+  "release_id": "e89be19a88ba2209581b9895133719aecb02628a3a8040a6243c7ba2ffc00022",
   "repository_id": "loot-acquisition",
   "schema_version": 1
 }
