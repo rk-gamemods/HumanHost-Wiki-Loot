@@ -2,55 +2,55 @@
   "files": {
     "README.md": {
       "bytes": 542,
-      "sha256": "58db0ea839279421d8080d517ece8f21431c0a891eabe76112f5bb4520aaa45e"
+      "sha256": "643b09eec61cfe88655838bebf317654e1cb39296d320cec0b8b6da6bdc9f2ce"
     },
     "reference/index.md": {
       "bytes": 689,
-      "sha256": "bfd7e1dab9eff008b05a31b737882933fc16c4eb22572caa3aa079f5540e6569"
+      "sha256": "777e4c4545972db8ff99916dea8f7b402179a74c3ee96c398b3aaf6c8a97cd45"
     },
     "reference/loot-source/0001.md": {
       "bytes": 42625,
-      "sha256": "240168327c04f02d5cd0b9d5e2a96b60c3824c4d934742edf4a0e26a5026ce47"
+      "sha256": "3ae19c4b472280815ef6adc772aa769b8cdcd23534b84ea3e3d40db63cb9830e"
     },
     "reference/loot-source/0002.md": {
       "bytes": 42625,
-      "sha256": "88de3fc1f142fff659bca838d7eae4586ea42f636988bce8e7fac1c4720315ad"
+      "sha256": "6ef9bb651e8c692475c7c3c6f8f29340d8a210d8d7f63292b0415590c1587dfb"
     },
     "reference/loot-source/0003.md": {
       "bytes": 42625,
-      "sha256": "f68b4e81ba95afe45d6d85dee2f092085b68118207a61e5adb6230b177ab70f0"
+      "sha256": "7e39575fef8d93bff8a0d35e76a0ea10e06c18b2b58307e7b699627118da0aed"
     },
     "reference/loot-source/0004.md": {
       "bytes": 42625,
-      "sha256": "4d10c88c84897f71afbb38dbefb1835f69d1b8ffd3a3423dba4c5529200d2288"
+      "sha256": "1648cafd078eb757585e2e7219130b3b5f9991b6a1c38dbbd30da541cab13279"
     },
     "reference/loot-source/0005.md": {
       "bytes": 42625,
-      "sha256": "1643c0b5a5d98f72af5940669f45a64ded6ee5b9da3d46b14f4f3f06b5b61b86"
+      "sha256": "7b6d0a2b5c44731e055f80f0a91c179211e3945c858e9176680c6170e433e90f"
     },
     "reference/loot-source/0006.md": {
       "bytes": 42625,
-      "sha256": "eacdf7bf52d202db0cf6e7c98ade7bdbedd9a93f1be215a4cfdf76bd74685f2a"
+      "sha256": "c8370f194c4661d5b1f9f701f11e65caaa114a7c7740de4f2c655cadb9d295c8"
     },
     "reference/loot-source/0007.md": {
       "bytes": 42625,
-      "sha256": "cccd9bc6bb2023b9c5c8d9e1ab0ebd62ddbfd131359bd0d3b77127949ef136de"
+      "sha256": "dbf3e3c3b5401b56c0bef8a210d11ae4d70c40d996b34aa3487c6dac1ffa1188"
     },
     "reference/loot-source/0008.md": {
       "bytes": 42757,
-      "sha256": "1d647d015958b1e6e2298873759dff345402b36ba48c697e292534e8175073cb"
+      "sha256": "a4ebcc0a61c636932d8b39051e54532ded58c7d13da1891cfd25709d4a9a7ae7"
     },
     "reference/loot-source/0009.md": {
       "bytes": 27157,
-      "sha256": "0e284c87f0db79c5f1ddab962b3704f7f231f1701fb792584bb469ac0c3254fb"
+      "sha256": "e47b52425a2461ff747c7f3da74023c11cb8450d4bfcbf20a9926b5bba4afe8e"
     },
     "reference/loot-table/0001.md": {
       "bytes": 15906,
-      "sha256": "e9344139a5810a4735e21b80c3491549410a49f5da88ac482baa031879091eb0"
+      "sha256": "a945add3cc41bd67e3b467dfd4fbcf999627a6c5bf1b0592645250c989d555af"
     },
     "reference/loot-tag/0001.md": {
       "bytes": 10715,
-      "sha256": "b7a158e0d421f95b34bfdecdaf60a04508f92ede95bc6b3cd8eb0400060a3207"
+      "sha256": "09913bc3308f341aa3eef9b08ddac9e94515348c26dc67922d6293b3783c2612"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -293,16 +293,20 @@
       "sha256": "31b3df513e2f5dab1f6a5db5c18838345bc1e7fd666166dc98d48c996fba712f"
     },
     "site/reader.js": {
-      "bytes": 1371,
-      "sha256": "e84ddb12f036211b5a8c47c4e70ac0ab5eb1fef0c758438de353064e73ec0ff9"
+      "bytes": 1966,
+      "sha256": "60af12c1c57d601902c0960bce6ea77136ffe396136988797b1457c057deb782"
     },
     "site/reader.json": {
       "bytes": 4993,
-      "sha256": "f6d7a7b8a429682145a1e1a4d5695dadab5da3acaa59cf8c0185138cf5f182af"
+      "sha256": "6b5dd0cecc711c4c8bb2a1a348deff0e854e3cff0af97fb384d5de34e3cfbff3"
     },
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json": {
       "bytes": 4993,
       "sha256": "f6d7a7b8a429682145a1e1a4d5695dadab5da3acaa59cf8c0185138cf5f182af"
+    },
+    "site/releases/120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f.json": {
+      "bytes": 4993,
+      "sha256": "6b5dd0cecc711c4c8bb2a1a348deff0e854e3cff0af97fb384d5de34e3cfbff3"
     },
     "site/runtime/cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317/reader.css": {
       "bytes": 4358,
@@ -314,7 +318,7 @@
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda",
+  "release_id": "120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f",
   "repository_id": "loot-acquisition",
   "schema_version": 1
 }
