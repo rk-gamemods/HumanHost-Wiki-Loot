@@ -78,6 +78,7 @@
     "site/releases/242d80ac4dde930da38365b9eec1a67e165ef19b646afe0fe8166838ba606ca5.json",
     "site/releases/681a90851f651a94544a5b5b61467a9e13020270635477c0bdaf87c165f87d43.json",
     "site/releases/748fc6c9de3b17187d77d4df69818b72939c03554225b9c3155929390db52411.json",
+    "site/releases/777a627ba7ac1c13208f8db5b95783f3267edcff7a260cf35a884613219a928f.json",
     "site/releases/84499e31b869a9e02cc30b44093a3c3bd251bee884a5ec78758922586cb31ddb.json",
     "site/releases/ababd1f9054c631ececa6977cd73300a20380c4a4a21af8c3d586412de05b54c.json",
     "site/releases/bd8693d245c439e4bc52d164e562f767abd167662155d4f404e04f430b6f39e7.json",
@@ -95,55 +96,55 @@
   "files": {
     "README.md": {
       "bytes": 542,
-      "sha256": "f44206890001802ba719b896b89e9d65d4df0320a73f56fdb917d4e3dce96572"
+      "sha256": "bc9ed862ebde85cce0717406f41a32bf00e42bbcda32fef67e1bfe0901f87521"
     },
     "reference/index.md": {
       "bytes": 689,
-      "sha256": "602ee5298815682b60726ed16328d5ff5607305fb9ec624ca5df6fc124ebe0ff"
+      "sha256": "b420c31108cee012dc131c6b3842f6a1b8a6bddf5f9980acfe11006e7c091647"
     },
     "reference/loot-source/0001.md": {
       "bytes": 42625,
-      "sha256": "04b54755a59685092f66d1a26156c0009d9b8bd93b4694cb488186abc4ed283a"
+      "sha256": "cbda80a918993a550e63c2d3bfe4e588a78ff3a7e40346b8b9046c414756b684"
     },
     "reference/loot-source/0002.md": {
       "bytes": 42625,
-      "sha256": "93561b78586175e30714fcdca463541e19ccdc2542e6cde94c22bc80a84be7ee"
+      "sha256": "aaf0045f197e6993c9116e54fd405a482887dd3462f71f6f81d3d6887827bd34"
     },
     "reference/loot-source/0003.md": {
       "bytes": 42625,
-      "sha256": "b6a09de551959b87d42927015fa5462ca34a6fc3c7e1a962ac3f8e0af1aed712"
+      "sha256": "d8f578f3072e000bdf91355c66e325df1167e7fc4293989d13e4b823874fb71a"
     },
     "reference/loot-source/0004.md": {
       "bytes": 42625,
-      "sha256": "cd7583312f573efda70803218ae67d5351b32818206359f4007918377cb20e35"
+      "sha256": "d09f02bc560335eecd3e74aac196c07777ce8a917a221d6c37877219dc147c3f"
     },
     "reference/loot-source/0005.md": {
       "bytes": 42625,
-      "sha256": "f7e30057bf5c44d13b177a751d5818d3cf8b6f60e966bda9e3f517bc32b90747"
+      "sha256": "f27c584b0e8b53ccf24ca1cad4da7f0ab0c8fa73b26533a6147c0bd4a572d06d"
     },
     "reference/loot-source/0006.md": {
       "bytes": 42625,
-      "sha256": "fc97579e62cdf87e5bae213df87a5b0fb078b26d5338fe92ccdfa5308288eea0"
+      "sha256": "4a5b203c22f3bf0fc5292702798d52bce76fcaeb4d4560c0301e60296494158d"
     },
     "reference/loot-source/0007.md": {
       "bytes": 42625,
-      "sha256": "dff0a12b682f6586a57fef39af9d30ad538a94da6c9726c91676cab73b77a95f"
+      "sha256": "6fecdb15472e4e2f17f1d8528bb3accea2d4a7ff216d5c476dce4a7533e3fbfd"
     },
     "reference/loot-source/0008.md": {
       "bytes": 42757,
-      "sha256": "7effb773178e82f4d16feac89d49ad3e8f2daf9454d4c160cca4c3f77dc5ff00"
+      "sha256": "82da561acdeb0b3a05a397aec1ccff38e5233c9f62403a7bd065ea30be70ddc9"
     },
     "reference/loot-source/0009.md": {
       "bytes": 27157,
-      "sha256": "bfbfcd32912cdcdeadae75e6fcc5a0a06e7ecf80d113dd413e766198335928cc"
+      "sha256": "3ab7f70faf447e9f42853bd87ff1b5040f5b7b9edbf1fb7c1ccb52edb79bc798"
     },
     "reference/loot-table/0001.md": {
       "bytes": 15906,
-      "sha256": "db6a5ea679004aea96dcf2d856b59aaae8f20291078f02154779038366136057"
+      "sha256": "e04f602c20d1da5fb71eb9dea5fd2cb8180d6895076f51b072b3baefff1cedb4"
     },
     "reference/loot-tag/0001.md": {
       "bytes": 10715,
-      "sha256": "9e7bee99c2703945a9e64ea97f2b6e3ef2e2bf0e86e8deda169f13d382bb000a"
+      "sha256": "05fe29d7280cb19b1a8fd93b5a17c020fdaff2332fbb2ce2a3edc266f695005d"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -467,7 +468,7 @@
     },
     "site/reader.json": {
       "bytes": 6566,
-      "sha256": "95e8c34edee1e7ee2ad7ef780c55cffbd52067deddca0ac2370ce6630b8f4a2c"
+      "sha256": "d17ae25c3befa8af1f246929c081bdea628e7f0a01ef06cf4a5829fadf8391fd"
     },
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json": {
       "bytes": 4993,
@@ -492,6 +493,10 @@
     "site/releases/748fc6c9de3b17187d77d4df69818b72939c03554225b9c3155929390db52411.json": {
       "bytes": 6566,
       "sha256": "2fdd2399843db8f887c83b6e476b76f851019fed6a5753e8ab391944c34fbf66"
+    },
+    "site/releases/777a627ba7ac1c13208f8db5b95783f3267edcff7a260cf35a884613219a928f.json": {
+      "bytes": 6566,
+      "sha256": "d17ae25c3befa8af1f246929c081bdea628e7f0a01ef06cf4a5829fadf8391fd"
     },
     "site/releases/84499e31b869a9e02cc30b44093a3c3bd251bee884a5ec78758922586cb31ddb.json": {
       "bytes": 5066,
@@ -547,7 +552,7 @@
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "681a90851f651a94544a5b5b61467a9e13020270635477c0bdaf87c165f87d43",
+  "release_id": "777a627ba7ac1c13208f8db5b95783f3267edcff7a260cf35a884613219a928f",
   "repository_id": "loot-acquisition",
   "schema_version": 1
 }
