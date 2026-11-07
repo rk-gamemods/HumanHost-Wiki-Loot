@@ -1,1 +1,232 @@
-{"allocated_count":1564,"file_count":1586,"file_index":[{"bytes":103,"count":1,"first":"README.md","last":"README.md","path":".wiki-ownership/9c673e8d8fa541bc35524ad8f8c7a638d1dcb9216beeb882ef972db55e801b0f.json","sha256":"9c673e8d8fa541bc35524ad8f8c7a638d1dcb9216beeb882ef972db55e801b0f"},{"bytes":1472,"count":12,"first":"reference/index.md","last":"reference/loot-tag/0001.md","path":".wiki-ownership/18e107e927d743e07bdcc93d44d7dbb58819fdd2bf061122076deff99f841770.json","sha256":"18e107e927d743e07bdcc93d44d7dbb58819fdd2bf061122076deff99f841770"},{"bytes":106,"count":1,"first":"site/.nojekyll","last":"site/.nojekyll","path":".wiki-ownership/7b4673514b7ddf5d18f414daa76348bc27a138601707b93ab79d40aad1cf6462.json","sha256":"7b4673514b7ddf5d18f414daa76348bc27a138601707b93ab79d40aad1cf6462"},{"bytes":108,"count":1,"first":"site/404.html","last":"site/404.html","path":".wiki-ownership/2dd9370726a797ef66709c1bf5c53f887de4264a87db7dd008066a17d7399235.json","sha256":"2dd9370726a797ef66709c1bf5c53f887de4264a87db7dd008066a17d7399235"},{"bytes":20895,"count":110,"first":"site/data/00028685e9a2ac491a33c1fd4f48a7202f4113556fefbadc8718fc55d6707491.json","last":"site/data/0faa50a774232b3a54b1163b0abba0164facb3e8a3b4752ce334232b9115c860.json","path":".wiki-ownership/83c513875a87a36e6e58788fa3e4e25950c8d0ff8f354f83cc634bdee90ade3f.json","sha256":"83c513875a87a36e6e58788fa3e4e25950c8d0ff8f354f83cc634bdee90ade3f"},{"bytes":16892,"count":89,"first":"site/data/10275e95916209d0deb119aa6d8a2e24bcdf13681c1e54fbd4d42b22cdc291d7.json","last":"site/data/1fa7f23f621d195911ef8f12832b78ba91b0689941da97d547fe85bebe8b4234.json","path":".wiki-ownership/5be50e87f8129d7975aff808dcb2df15a7bd039f03e0037e83345d83b93ce88d.json","sha256":"5be50e87f8129d7975aff808dcb2df15a7bd039f03e0037e83345d83b93ce88d"},{"bytes":16694,"count":88,"first":"site/data/20640d08c4e46ec49cd58e19d70abed6add23d6d9bc2bce9b5d71c82e12117b3.json","last":"site/data/2fc0bae930ddfbec05b331a4c2f5ab398fff3e4f87ea4b87440e0780fba9d665.json","path":".wiki-ownership/54faa27c62cbdd9021d53f76941cb53452e58f5f67999bbe236adef543ffefcd.json","sha256":"54faa27c62cbdd9021d53f76941cb53452e58f5f67999bbe236adef543ffefcd"},{"bytes":16888,"count":89,"first":"site/data/300e11036b7c58690d119ea622a70827d0084850e1f88d754d963f151061044f.json","last":"site/data/3fec7d24674f5de89d852ece33512f7b4431739ce5efc951dc626e44a32e1569.json","path":".wiki-ownership/d320b859a762e6fe2d8dadbd27c53ff8ee6c081d5a2fa19571c88b5e87eee8a2.json","sha256":"d320b859a762e6fe2d8dadbd27c53ff8ee6c081d5a2fa19571c88b5e87eee8a2"},{"bytes":14056,"count":74,"first":"site/data/4016d1b99c5e9150e68194e27f6c7577087d1e6f616e50569b61b12747386340.json","last":"site/data/4ffbec42c3715f164f48d8a4d76d4aeea7c33fb552a3bef5c8c975f2eae74e2e.json","path":".wiki-ownership/8999026f1695a0de37849d3425e9fdad1ab65c424747cad1549e889a5fb9e284.json","sha256":"8999026f1695a0de37849d3425e9fdad1ab65c424747cad1549e889a5fb9e284"},{"bytes":18006,"count":95,"first":"site/data/50121741f77f64f140f6b65169614eebb64ce49a00e5ba93245e7d219e22e80f.json","last":"site/data/5fdded7a179c849759ea65e8e041ff96f3d64e91fe2d401edbadf020f3c5c8bf.json","path":".wiki-ownership/aa7703a1133dd53f980734fa7e7f427c94e8b28934605df452cffd4a18c843d9.json","sha256":"aa7703a1133dd53f980734fa7e7f427c94e8b28934605df452cffd4a18c843d9"},{"bytes":17653,"count":93,"first":"site/data/601aa344c18bbbb8c0d151c7c4cc400c35cbd2aaf3058ff14f8c4264c9e31711.json","last":"site/data/6ff72a18d0d98226daa259b33f492a75c57114ad39fbb7ab7979baa66d900458.json","path":".wiki-ownership/6ab5d7fc1a194cdef3e979cab43cfa82bb6bc752a510ac068f39c33fc9c14d28.json","sha256":"6ab5d7fc1a194cdef3e979cab43cfa82bb6bc752a510ac068f39c33fc9c14d28"},{"bytes":15382,"count":81,"first":"site/data/707b4e52dbf45cd251de36f87b40e21537aff84f6f33885f4a13737f6c994785.json","last":"site/data/7fe2a5e597392f8644bb4901daba00a9387faf4cf762f52f6ac28e19ad1f3b81.json","path":".wiki-ownership/1a68920c16498d347bcfff6a7d28f46fea53bb4a8ad1030c311ce7e8c25308f5.json","sha256":"1a68920c16498d347bcfff6a7d28f46fea53bb4a8ad1030c311ce7e8c25308f5"},{"bytes":15956,"count":84,"first":"site/data/800b8d5978ef91ce40eb05b05abec9be0a1835d306acdc0ae9b5316a90209b16.json","last":"site/data/8fffb7af3d4efa431e53b729ea159f423eba8cfa59e69d2fcc42cb618151369d.json","path":".wiki-ownership/ddf212f4866b0b33c88e4815de106a1b9cc17f4a7df248c99c4da2d350363e61.json","sha256":"ddf212f4866b0b33c88e4815de106a1b9cc17f4a7df248c99c4da2d350363e61"},{"bytes":19351,"count":102,"first":"site/data/902b253b4258a944ecec6e72a9dd01a6160790e4ccd93eaf86432a522edc0848.json","last":"site/data/9ff0d2dec5aea15ba6452121fb1fd801925981fcb63d21a0ef7fa889684caccb.json","path":".wiki-ownership/97eb54d5176fceddeaf535ab8beee59d05d51224a1ea4309f01adea9516845f3.json","sha256":"97eb54d5176fceddeaf535ab8beee59d05d51224a1ea4309f01adea9516845f3"},{"bytes":15752,"count":83,"first":"site/data/a0300db84042724b6a5762e916ea1416c89d95840ee2572aa7313d6de81d48f3.json","last":"site/data/afbd3617d6708ed6d8997e3016039bae738714ef38238dde900dfe13f83edc84.json","path":".wiki-ownership/c6519ed43a7f6e38cebc3fa2355e96c9ebcb60fb0d91be16b6d39fa9844c2f91.json","sha256":"c6519ed43a7f6e38cebc3fa2355e96c9ebcb60fb0d91be16b6d39fa9844c2f91"},{"bytes":18392,"count":97,"first":"site/data/b01c2b317e4f42858b4d6034e69c4708eea3b9ed2533824e71431d154dad8551.json","last":"site/data/bf8c6eeae5bdb8b6cad231a8d10b7f4bf64dee6de18665ec369d733332099eee.json","path":".wiki-ownership/89dd96e7438b7f2a1dce7f3ce2713aef04c3a4103bea9ca4e7515fd20fd449ab.json","sha256":"89dd96e7438b7f2a1dce7f3ce2713aef04c3a4103bea9ca4e7515fd20fd449ab"},{"bytes":18411,"count":97,"first":"site/data/c0730176de8c0f30ae1cea640a571b96390643ca40912a80b7dd5fe26c766284.json","last":"site/data/cfffe6a93bb7394394926a7caec1ab2df84b4b3a288ca189a8d8033f08359689.json","path":".wiki-ownership/3944855150b83e6c356365ec6bdce03acaea7836d3194af9eed4bddcc0afe3e5.json","sha256":"3944855150b83e6c356365ec6bdce03acaea7836d3194af9eed4bddcc0afe3e5"},{"bytes":16328,"count":86,"first":"site/data/d00504d4d05ff12590bb0bf837f3bc75074d27b7fcb4d154becec6b1f7bda236.json","last":"site/data/dfed26528b644ef6f4b6c7412bc0c5868d9fb55837d6da33c49a1a7edd202936.json","path":".wiki-ownership/dcad905f5c3474353183f0ff31f82899f17f03267902086c0320461c2b3cc4ab.json","sha256":"dcad905f5c3474353183f0ff31f82899f17f03267902086c0320461c2b3cc4ab"},{"bytes":21840,"count":115,"first":"site/data/e0066fc4e87a76c5b80989dca83d96071ed9c57ea2c7f57dd3e7346db705ccad.json","last":"site/data/eff88e17ccc7c2b151dbde39fa907c2df75761de8db33948f697b60091d29979.json","path":".wiki-ownership/48bbc69f2bf87614fa0281c0a1dcc712ca7a7caae5a01089d6782db150ac82f6.json","sha256":"48bbc69f2bf87614fa0281c0a1dcc712ca7a7caae5a01089d6782db150ac82f6"},{"bytes":14999,"count":79,"first":"site/data/f013154ef47696f9cbd4374cc0cf488a377dde5737f85fbe0046903d1ffbe330.json","last":"site/data/ffd64c4f50a2e593384cd8f4be8e28e2163154a68976ee7c6ccb72923ea59afe.json","path":".wiki-ownership/9aec860806f0a3b61f8706a1f9f7cacf9fbbe56ce6f70ada5ea00685a12a4603.json","sha256":"9aec860806f0a3b61f8706a1f9f7cacf9fbbe56ce6f70ada5ea00685a12a4603"},{"bytes":381,"count":3,"first":"site/groups/loot-source/index.html","last":"site/groups/loot-tag/index.html","path":".wiki-ownership/77f3795cc0fda4aeeb683a448f7a7c0e7f37de86acec6c3e2aad2ef775931e33.json","sha256":"77f3795cc0fda4aeeb683a448f7a7c0e7f37de86acec6c3e2aad2ef775931e33"},{"bytes":110,"count":1,"first":"site/index.html","last":"site/index.html","path":".wiki-ownership/382e47b2d59419c1e0252e1c756c55779fa12dde4d3183160eb24869e083cf34.json","sha256":"382e47b2d59419c1e0252e1c756c55779fa12dde4d3183160eb24869e083cf34"},{"bytes":9306,"count":48,"first":"site/objects/02a7f0537c8460dc735f97faacc2e358766c31ee23bcc39a22f026786c0100ae.json","last":"site/objects/e74b93f982224605a709568bd7263a1bd1212939ae05cbd84ac11a441bda4f49.json","path":".wiki-ownership/5bbe2e61bfc34aa7c8a74d6bfd12658a55c950974f800c17a918f28cf5cd81a2.json","sha256":"5bbe2e61bfc34aa7c8a74d6bfd12658a55c950974f800c17a918f28cf5cd81a2"},{"bytes":10913,"count":57,"first":"site/reader.css","last":"site/runtime/f2003f4f769016362f2a437661a66391a7d90f6f76d284239f5886d398986417/reader.js","path":".wiki-ownership/e5d817184a94d309257c212ccffc03974634c7a42a6a65110ab1ec982ad07841.json","sha256":"e5d817184a94d309257c212ccffc03974634c7a42a6a65110ab1ec982ad07841"}],"files_sha256":"49291e7c7e6e58128c92092b46ae02f53abec95fdb68bbeb5dc5f163292cb6ab","kind":"generated-wiki-output","release_id":"02636eccacd2dd1727a3f3b6be5af8eb9192a0626d54387120364fc5398e4031","repository_id":"loot-acquisition","schema_version":2}
+{
+  "capacity_objects": [
+    "site/data/00489bb87f2a6c3a41298303d07e405e9f70b0c8424693b350079f75fabc01b7.json",
+    "site/data/204dd751f1241158c84d35681937c044162462dbc887a76f62beaca49979caca.json",
+    "site/data/2330c0721ef484c9c9f2cc7e52a39e091511a5bb01c7bc8f0e07ec305beacd68.json",
+    "site/data/72a40d47bdbd19944918b236de41d41a7fac081a2cd02f8303e025fd3831d650.json",
+    "site/data/73d156812962898d1091d7d136494398e408241a3b4763e4eeeb997d2a8dfa32.json",
+    "site/data/74d5bb7b9414bcb437e4686c7813e67ada33e22375f7ec27f6177ed0ff64806e.json",
+    "site/data/8f59756ff29365d11fc4183a6751262d062469e6ed2fe6f782992363d4419ae1.json",
+    "site/data/94efd3dfcccecd5c44b92828c44c3a536b6e4c09f87d4a80f2b5f5f01711698a.json",
+    "site/data/a5c39b42b133eaf81c9fd5ab6422a0b242cb234a41f932aa2e2498f259d1294f.json",
+    "site/data/b0b3908b66097f7858ca07e6bd25a1137d4954b5debcfcd37602065cb0549318.json",
+    "site/data/b43a0f8d706f044b6466d173214707492516f5f5ca0adbf694d14a70b1932958.json",
+    "site/data/be482168228918b9c177be179cede4d437b03d01897269075d49344bc56dcd02.json",
+    "site/data/c03cc2a09fe57c117f7f2000b428befdc72fa9130d82e56023b7ca5d1f9a082b.json",
+    "site/data/cbf68ae913f66f7db1e96f9a8a652509e447bd6e6e9b5cbc01e3967db8f6bec3.json",
+    "site/data/cc7f090abbc078e213f893de2e1485359ede99043000f86ce7553b6635e2fd8f.json",
+    "site/data/d7aa900cdcee12c96038f4546b326ca8481610d163e97f7e6db200a0cb50db3d.json",
+    "site/data/dd462e9c9c53c76195172c043f387b3242fff9f03db165ca70e9938a7b8f3b0d.json",
+    "site/data/ec7e1e786386be2361d3d45253c46fa10196749dc07cf57c75663c3d9a3ea82d.json",
+    "site/data/ec888f7fa1c556fb04c61c9feeb3816bbee24700f2f26be4007379abf818fb7f.json",
+    "site/data/f7f3f611d48b203fae3746ada3e1fd0ab2674d2e5a33dfdeac749b441a089ebb.json",
+    "site/data/fc5562a1c91e86b168006b95d4caca0dddab945f97801a7951ad72bc4f9c6584.json",
+    "site/objects/26da2161516dee340eb70aa5ff02d3cb18c1919d66002073f6cb5d8c38518e44.json",
+    "site/objects/dbc1c21173b28081e9463f2f06f2bf5b047488ba6c944c9f77c82be72be55f59.json",
+    "site/releases/0985d42c2afa1aa3f5e12204f8e7ddb06a1b8696aa2d8a0b95b1343676c21700.json",
+    "site/runtime/02b0e7861655c26a9be2fec058c6adcfa2bbd37fc11c38f10a07bb0d4812630b/reader.css",
+    "site/runtime/c92779fc2694bf7762ee6b5cf2e6da6a889b72c3e95e28adf1c3e01e20b645f0/reader.js"
+  ],
+  "files": {
+    "README.md": {
+      "bytes": 685,
+      "sha256": "913c170086c233b1155c94de3c1b5b3b80507e9e65a6847f3cee697cb85c667d"
+    },
+    "reference/changes.md": {
+      "bytes": 4076,
+      "sha256": "68d67bea584e240682373061d819f949387fa1b0589179799c6b053fc31c4f54"
+    },
+    "reference/index.md": {
+      "bytes": 726,
+      "sha256": "8cb1a874f001db3662b65e7a0df0a7b8250edf153b8430c387a86886ee6e7474"
+    },
+    "reference/loot-source/0001.md": {
+      "bytes": 32712,
+      "sha256": "810f2026ec937243247fbf2784b41290d06ec2a92ec0a93cd91c792d4d244044"
+    },
+    "reference/loot-source/0002.md": {
+      "bytes": 32712,
+      "sha256": "c39639fd2c7e0773b00f083bb6d90ef696b472e4017d9eb70e654af21e864a4d"
+    },
+    "reference/loot-source/0003.md": {
+      "bytes": 32712,
+      "sha256": "9d481a5ae4d22bc4a87f39910779f64f75b22b60d08755b0a5db8e7e07a4677a"
+    },
+    "reference/loot-source/0004.md": {
+      "bytes": 32712,
+      "sha256": "8a628ca84c9e3795d4cf242db7ee9ec6751c2d74d9044db908242ef596d79ade"
+    },
+    "reference/loot-source/0005.md": {
+      "bytes": 32712,
+      "sha256": "a91e96a2aaa774a92f83da340883c518eeb6c49f77f29e18de7c9473b780f862"
+    },
+    "reference/loot-source/0006.md": {
+      "bytes": 32712,
+      "sha256": "925678cd4b81715ece4a02e45f353c0f935826e6918b69bcf131f2355ed17894"
+    },
+    "reference/loot-source/0007.md": {
+      "bytes": 32712,
+      "sha256": "009a8d10fb5d043deb00cc1621e48bde0a359d96b3afc3ec09bf1b57d315a701"
+    },
+    "reference/loot-source/0008.md": {
+      "bytes": 32530,
+      "sha256": "cf857a36732b31b945e529bd65d71d16a16868ed5ccdd58de3dea031f553e0e8"
+    },
+    "reference/loot-source/0009.md": {
+      "bytes": 25237,
+      "sha256": "8c7924c3cc6c98ad0824997eadcaf3a0755f5b3b45a7476d52ec0c11af015b0c"
+    },
+    "reference/loot-table/0001.md": {
+      "bytes": 12887,
+      "sha256": "0f9a9c4fcd330e92b85121b431464f45adda6fe8b709bd26709a8b39d768126d"
+    },
+    "reference/loot-tag/0001.md": {
+      "bytes": 7396,
+      "sha256": "5c1cb5591ceeb632a322ae335f7d9e3b393f32b0e9a8c0c7a0feb0b528c57d79"
+    },
+    "site/.nojekyll": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "site/404.html": {
+      "bytes": 1814,
+      "sha256": "9680ce1646e5fcd5c454d2117beee207e4bf2abbe1fa9f90047203e2ae4a9c5d"
+    },
+    "site/data/00489bb87f2a6c3a41298303d07e405e9f70b0c8424693b350079f75fabc01b7.json": {
+      "bytes": 303377,
+      "sha256": "00489bb87f2a6c3a41298303d07e405e9f70b0c8424693b350079f75fabc01b7"
+    },
+    "site/data/204dd751f1241158c84d35681937c044162462dbc887a76f62beaca49979caca.json": {
+      "bytes": 31510,
+      "sha256": "204dd751f1241158c84d35681937c044162462dbc887a76f62beaca49979caca"
+    },
+    "site/data/2330c0721ef484c9c9f2cc7e52a39e091511a5bb01c7bc8f0e07ec305beacd68.json": {
+      "bytes": 28984,
+      "sha256": "2330c0721ef484c9c9f2cc7e52a39e091511a5bb01c7bc8f0e07ec305beacd68"
+    },
+    "site/data/72a40d47bdbd19944918b236de41d41a7fac081a2cd02f8303e025fd3831d650.json": {
+      "bytes": 32984,
+      "sha256": "72a40d47bdbd19944918b236de41d41a7fac081a2cd02f8303e025fd3831d650"
+    },
+    "site/data/73d156812962898d1091d7d136494398e408241a3b4763e4eeeb997d2a8dfa32.json": {
+      "bytes": 45619,
+      "sha256": "73d156812962898d1091d7d136494398e408241a3b4763e4eeeb997d2a8dfa32"
+    },
+    "site/data/74d5bb7b9414bcb437e4686c7813e67ada33e22375f7ec27f6177ed0ff64806e.json": {
+      "bytes": 29367,
+      "sha256": "74d5bb7b9414bcb437e4686c7813e67ada33e22375f7ec27f6177ed0ff64806e"
+    },
+    "site/data/8f59756ff29365d11fc4183a6751262d062469e6ed2fe6f782992363d4419ae1.json": {
+      "bytes": 31123,
+      "sha256": "8f59756ff29365d11fc4183a6751262d062469e6ed2fe6f782992363d4419ae1"
+    },
+    "site/data/94efd3dfcccecd5c44b92828c44c3a536b6e4c09f87d4a80f2b5f5f01711698a.json": {
+      "bytes": 265143,
+      "sha256": "94efd3dfcccecd5c44b92828c44c3a536b6e4c09f87d4a80f2b5f5f01711698a"
+    },
+    "site/data/a5c39b42b133eaf81c9fd5ab6422a0b242cb234a41f932aa2e2498f259d1294f.json": {
+      "bytes": 42916,
+      "sha256": "a5c39b42b133eaf81c9fd5ab6422a0b242cb234a41f932aa2e2498f259d1294f"
+    },
+    "site/data/b0b3908b66097f7858ca07e6bd25a1137d4954b5debcfcd37602065cb0549318.json": {
+      "bytes": 39229,
+      "sha256": "b0b3908b66097f7858ca07e6bd25a1137d4954b5debcfcd37602065cb0549318"
+    },
+    "site/data/b43a0f8d706f044b6466d173214707492516f5f5ca0adbf694d14a70b1932958.json": {
+      "bytes": 28016,
+      "sha256": "b43a0f8d706f044b6466d173214707492516f5f5ca0adbf694d14a70b1932958"
+    },
+    "site/data/be482168228918b9c177be179cede4d437b03d01897269075d49344bc56dcd02.json": {
+      "bytes": 6379,
+      "sha256": "be482168228918b9c177be179cede4d437b03d01897269075d49344bc56dcd02"
+    },
+    "site/data/c03cc2a09fe57c117f7f2000b428befdc72fa9130d82e56023b7ca5d1f9a082b.json": {
+      "bytes": 28674,
+      "sha256": "c03cc2a09fe57c117f7f2000b428befdc72fa9130d82e56023b7ca5d1f9a082b"
+    },
+    "site/data/cbf68ae913f66f7db1e96f9a8a652509e447bd6e6e9b5cbc01e3967db8f6bec3.json": {
+      "bytes": 43988,
+      "sha256": "cbf68ae913f66f7db1e96f9a8a652509e447bd6e6e9b5cbc01e3967db8f6bec3"
+    },
+    "site/data/cc7f090abbc078e213f893de2e1485359ede99043000f86ce7553b6635e2fd8f.json": {
+      "bytes": 39490,
+      "sha256": "cc7f090abbc078e213f893de2e1485359ede99043000f86ce7553b6635e2fd8f"
+    },
+    "site/data/d7aa900cdcee12c96038f4546b326ca8481610d163e97f7e6db200a0cb50db3d.json": {
+      "bytes": 209180,
+      "sha256": "d7aa900cdcee12c96038f4546b326ca8481610d163e97f7e6db200a0cb50db3d"
+    },
+    "site/data/dd462e9c9c53c76195172c043f387b3242fff9f03db165ca70e9938a7b8f3b0d.json": {
+      "bytes": 216764,
+      "sha256": "dd462e9c9c53c76195172c043f387b3242fff9f03db165ca70e9938a7b8f3b0d"
+    },
+    "site/data/ec7e1e786386be2361d3d45253c46fa10196749dc07cf57c75663c3d9a3ea82d.json": {
+      "bytes": 42448,
+      "sha256": "ec7e1e786386be2361d3d45253c46fa10196749dc07cf57c75663c3d9a3ea82d"
+    },
+    "site/data/ec888f7fa1c556fb04c61c9feeb3816bbee24700f2f26be4007379abf818fb7f.json": {
+      "bytes": 32140,
+      "sha256": "ec888f7fa1c556fb04c61c9feeb3816bbee24700f2f26be4007379abf818fb7f"
+    },
+    "site/data/f7f3f611d48b203fae3746ada3e1fd0ab2674d2e5a33dfdeac749b441a089ebb.json": {
+      "bytes": 36156,
+      "sha256": "f7f3f611d48b203fae3746ada3e1fd0ab2674d2e5a33dfdeac749b441a089ebb"
+    },
+    "site/data/fc5562a1c91e86b168006b95d4caca0dddab945f97801a7951ad72bc4f9c6584.json": {
+      "bytes": 34398,
+      "sha256": "fc5562a1c91e86b168006b95d4caca0dddab945f97801a7951ad72bc4f9c6584"
+    },
+    "site/groups/loot-source/index.html": {
+      "bytes": 1814,
+      "sha256": "9680ce1646e5fcd5c454d2117beee207e4bf2abbe1fa9f90047203e2ae4a9c5d"
+    },
+    "site/groups/loot-table/index.html": {
+      "bytes": 1814,
+      "sha256": "9680ce1646e5fcd5c454d2117beee207e4bf2abbe1fa9f90047203e2ae4a9c5d"
+    },
+    "site/groups/loot-tag/index.html": {
+      "bytes": 1814,
+      "sha256": "9680ce1646e5fcd5c454d2117beee207e4bf2abbe1fa9f90047203e2ae4a9c5d"
+    },
+    "site/index.html": {
+      "bytes": 1814,
+      "sha256": "9680ce1646e5fcd5c454d2117beee207e4bf2abbe1fa9f90047203e2ae4a9c5d"
+    },
+    "site/objects/26da2161516dee340eb70aa5ff02d3cb18c1919d66002073f6cb5d8c38518e44.json": {
+      "bytes": 6961,
+      "sha256": "26da2161516dee340eb70aa5ff02d3cb18c1919d66002073f6cb5d8c38518e44"
+    },
+    "site/objects/dbc1c21173b28081e9463f2f06f2bf5b047488ba6c944c9f77c82be72be55f59.json": {
+      "bytes": 653,
+      "sha256": "dbc1c21173b28081e9463f2f06f2bf5b047488ba6c944c9f77c82be72be55f59"
+    },
+    "site/reader.css": {
+      "bytes": 59,
+      "sha256": "31b3df513e2f5dab1f6a5db5c18838345bc1e7fd666166dc98d48c996fba712f"
+    },
+    "site/reader.js": {
+      "bytes": 7019,
+      "sha256": "42f2ae61a23ab1f3ab2caa770bd416b2130cee7ea9c55ce8ec90b7de8e3e4265"
+    },
+    "site/reader.json": {
+      "bytes": 12249,
+      "sha256": "042384a6ef5d780be376f0672b6f146ebf795188ef1ebf9a9ec2238be2056239"
+    },
+    "site/releases/0985d42c2afa1aa3f5e12204f8e7ddb06a1b8696aa2d8a0b95b1343676c21700.json": {
+      "bytes": 12249,
+      "sha256": "042384a6ef5d780be376f0672b6f146ebf795188ef1ebf9a9ec2238be2056239"
+    },
+    "site/runtime/02b0e7861655c26a9be2fec058c6adcfa2bbd37fc11c38f10a07bb0d4812630b/reader.css": {
+      "bytes": 27889,
+      "sha256": "02b0e7861655c26a9be2fec058c6adcfa2bbd37fc11c38f10a07bb0d4812630b"
+    },
+    "site/runtime/c92779fc2694bf7762ee6b5cf2e6da6a889b72c3e95e28adf1c3e01e20b645f0/reader.js": {
+      "bytes": 77424,
+      "sha256": "c92779fc2694bf7762ee6b5cf2e6da6a889b72c3e95e28adf1c3e01e20b645f0"
+    }
+  },
+  "kind": "generated-wiki-output",
+  "release_id": "0985d42c2afa1aa3f5e12204f8e7ddb06a1b8696aa2d8a0b95b1343676c21700",
+  "repository_id": "loot-acquisition",
+  "schema_version": 1
+}
